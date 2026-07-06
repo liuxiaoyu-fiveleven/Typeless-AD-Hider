@@ -2,6 +2,4 @@
 
 Lightweight, battery-friendly, and unobtrusive.
 
-
-macOS only,
-Windows version coming soon.
+macOS only, Windows version coming soon.
