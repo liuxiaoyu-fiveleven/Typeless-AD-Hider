@@ -3,3 +3,5 @@
 Lightweight, battery-friendly, and unobtrusive.
 
 macOS only, Windows version coming soon.
+
+<img width="828" height="524" alt="截屏2026-07-07 12 26 57" src="https://github.com/user-attachments/assets/d632f265-c115-47d3-a38a-64ffbc8205b4" />
