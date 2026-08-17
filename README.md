@@ -1,8 +1,6 @@
 # Auto-closes ads when Typeless voice input is triggered.
 
-A lightweight, battery-friendly, and unobtrusive minimal tool.
- 
-Lightweight, battery-friendly, and unobtrusive.
+A lightweight, battery-friendly, and unobtrusive minimalist APP.
 
 macOS only now.
 
