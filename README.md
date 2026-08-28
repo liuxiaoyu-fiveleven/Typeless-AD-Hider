@@ -7,9 +7,13 @@
 
 
 
+
+
+
 <h1 align="center">
   Typeless AD Skipper
 </h1>
+
 
 
 
@@ -20,6 +24,13 @@
 <p align="center"><sup><b>
   A lightweight, battery-friendly, and unobtrusive app.
 </b></sup></p>
+
+
+<h3 align="center">
+  <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases/download/Typeless-AD-Skipper/Typeless.AD.Skipper.20260817.dmg">
+  → Download Latest Version（20260817） <br>
+  </a>
+</h3>
 
 
 
