@@ -1,7 +1,6 @@
-# Auto-skip Typeless ads when they pop up.
+# Auto-skip Typeless ad pop-ups.
 
 A lightweight, battery-friendly, and unobtrusive app.
 
 macOS only for now.
-
 <img width="828" height="524" alt="截屏2026-07-07 12 26 57" src="https://github.com/user-attachments/assets/d632f265-c115-47d3-a38a-64ffbc8205b4" />
