@@ -26,11 +26,18 @@
 </b></sup></p>
 
 
+
 <h3 align="center">
   <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases/download/Typeless-AD-Skipper/Typeless.AD.Skipper.20260817.dmg">
   → Download the Latest Version（20260817） <br>
   </a>
 </h3>
+
+
+
+
+<br><br><br><br><br><br><br><br><br><br>
+
 
 
 
