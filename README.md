@@ -34,7 +34,7 @@
 
 <h3 align="center">
   <a href="https://github.com/liuxiaoyu-fiveleven/Typeless-AD-Skipper/releases/download/2026-09-01/Typeless.AD.Skipper.dmg">
-  → Download the Latest Version（2026-09-01） <br>
+  → Download the Latest Version ⁠<br>
   </a>
 </h3>
 
