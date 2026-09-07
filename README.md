@@ -48,3 +48,10 @@
   />
 </p>
 
+
+
+
+<p align="center">
+  <code> Notarized by Apple.</code>
+</p>
+
